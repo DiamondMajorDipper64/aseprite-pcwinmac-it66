@@ -1,4 +1,4 @@
-# 
+# Custom Aseprite plugins for Mac OS | Top Aseprite plugins for PC Windows. Featuring liquify-tool and texture-brushes — optimized for maximum performance on every platform.
 
 
 
